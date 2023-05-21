@@ -1,0 +1,14 @@
+.toggle-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 50px;
+  }
+  
+  .dark-mode-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
